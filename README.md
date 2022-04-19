@@ -1,4 +1,6 @@
-# codeReview
+# code Review
+
+## The tone of the comments
 
 - Do you think it’s better if A.
 - Please explain why B.
